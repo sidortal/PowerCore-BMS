@@ -11,8 +11,8 @@ Developed as an academic + practical hardware project.
 ---
 
 ## 🎥 Demo Videos
-- [▶️ Watch Demo Video 1](https://drive.google.com/file/d/VIDEO_ID_1/view?usp=sharing)  
-- [▶️ Watch Demo Video 2](https://drive.google.com/file/d/VIDEO_ID_2/view?usp=sharing)
+- [▶️ Watch Demo Video 1](https://drive.google.com/file/d/1IXptzPIsLpXgdGexhmpmoqSfk5SGxDSW/view?usp=drive_link)  
+- [▶️ Watch Demo Video 2](https://drive.google.com/file/d/1eXrK253PXBS8xrBsJ-vRTsRqrHc911hD/view?usp=drive_link)
 
 *(Hosted on Google Drive — click links to watch)*
 
@@ -20,15 +20,15 @@ Developed as an academic + practical hardware project.
 
 ## 🖼️ Project Photos
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=PHOTO_ID_1" width="350">
-  <img src="https://drive.google.com/uc?export=view&id=PHOTO_ID_2" width="350">
-  <img src="https://drive.google.com/uc?export=view&id=PHOTO_ID_3" width="350">
+  <img src="https://drive.google.com/file/d/1SEXGgC7r_PIKoTYpvXCxfrO7-Enog7RC/view?usp=drive_link" width="350">
+  <img src="https://drive.google.com/file/d/1EKDHQS_w_Zt0m6lvbIdf2jfPhjnDum8q/view?usp=drive_link" width="350">
+  <img src="https://drive.google.com/file/d/1lbuxYLbKJwxDPGmoq-CzddW8A3yhKGf1/view?usp=drive_link" width="350">
 </p>
 
 ---
 
 ## 📑 Project Presentation
-- [📂 View Presentation (PPT)](https://drive.google.com/file/d/PPT_ID/view?usp=sharing)
+- [📂 View Presentation (PPT)](https://docs.google.com/presentation/d/1bvNAJ2W0TkVCBMyxPtJjyX1ubfwUfUWg/edit?usp=drive_link&ouid=102921229719269680219&rtpof=true&sd=true)
 
 ---
 
@@ -85,4 +85,4 @@ Guided by:
 ---
 
 ## 📅 Project Date
-`10 September 2025`
+` 09/09/2025`
