@@ -6,8 +6,9 @@ Integrates **temperature, gas, and current sensors** with a multi-screen OLED da
 ---
 
 ## 🎥 Demo Video
-[![Watch the demo](media/demo-thumbnail.png)](https://drive.google.com/file/d/1eXrK253PXBS8xrBsJ-vRTsRqrHc911hD/view?usp=drive_link)  
-*(Click image to watch on YouTube)*
+[![Watch the demo](media/demo-thumbnail.png)](https://drive.google.com/file/d/1eXrK253PXBS8xrBsJ-vRTsRqrHc911hD/view?usp=sharing)  
+*(Click image to open in Google Drive)*
+
 
 ---
 
