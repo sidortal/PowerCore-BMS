@@ -21,8 +21,8 @@ Developed as an academic + practical hardware project.
 ## 🖼️ Project Photos
 <p align="center">
   <img src="https://github.com/sidortal/OBB-Expansion/blob/main/WhatsApp%20Image%202025-09-26%20at%2012.28.06_1e314fae.jpg" width="350">
-  <img src="https://drive.google.com/file/d/1EKDHQS_w_Zt0m6lvbIdf2jfPhjnDum8q/view?usp=drive_link" width="350">
-  <img src="https://drive.google.com/file/d/1lbuxYLbKJwxDPGmoq-CzddW8A3yhKGf1/view?usp=drive_link" width="350">
+  <img src="https://github.com/sidortal/OBB-Expansion/blob/main/WhatsApp%20Image%202025-09-26%20at%2012.28.07_603e3cbc.jpg" width="350">
+  <img src="https://github.com/sidortal/OBB-Expansion/blob/main/WhatsApp%20Image%202025-09-26%20at%2012.28.07_d91c5880.jpg" width="350">
 </p>
 
 ---
